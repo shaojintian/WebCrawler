@@ -9,9 +9,9 @@ import (
 	"sync"
 
 	"WebCrawler/cmap"
+	"WebCrawler/helper/log"
 	"WebCrawler/module"
 	"WebCrawler/toolkit/buffer"
-	"WebCrawler/helper/log"
 )
 
 // logger 代表日志记录器。

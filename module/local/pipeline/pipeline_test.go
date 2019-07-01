@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"testing"
 
-	"gopcp.v2/chapter6/webcrawler/module"
-	"gopcp.v2/chapter6/webcrawler/module/stub"
+	"WebCrawler/module"
+	"WebCrawler/module/stub"
 )
 
 func TestNew(t *testing.T) {
@@ -29,7 +29,7 @@ func TestNew(t *testing.T) {
 			mid, p.ID())
 	}
 	if len(p.ItemProcessors()) != len(processors) {
-		t.Fatalf("Inconsistent item processor number for pipeline: expected: %sd, actual: %d",
+		t.Fatalf("Inconsistent item processor number for pipeline: expected: %d, actual: %d",
 			len(p.ItemProcessors()), len(processors))
 	}
 	// 测试参数有误的情况。

@@ -24,7 +24,7 @@ var (
 
 // 日志记录器。
 var logger = log.DLogger()
-
+//init() 函数在main函数之前被调用
 func init() {
 	flag.StringVar(&firstURL, "first", "http://zhihu.sogou.com/zhihu?query=golang+logo",
 		"The first URL which you want to access.")
@@ -46,6 +46,7 @@ func Usage() {
 
 func main() {
 	flag.Usage = Usage
+	//解析所有的命令行参数,也就是运行程序可以加一些参数
 	flag.Parse()
 	// 创建调度器。
 	scheduler := sched.NewScheduler()
@@ -53,6 +54,7 @@ func main() {
 	domainParts := strings.Split(domains, ",")
 	acceptedDomains := []string{}
 	for _, domain := range domainParts {
+		//去掉字符串两端所有的无用空格
 		domain = strings.TrimSpace(domain)
 		if domain != "" {
 			acceptedDomains =

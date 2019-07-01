@@ -10,10 +10,10 @@ import (
 	"time"
 
 	"github.com/PuerkitoBio/goquery"
-	"gopcp.v2/chapter6/webcrawler/module"
-	"gopcp.v2/chapter6/webcrawler/module/local/analyzer"
-	"gopcp.v2/chapter6/webcrawler/module/local/downloader"
-	"gopcp.v2/chapter6/webcrawler/module/local/pipeline"
+	"WebCrawler/module"
+	"WebCrawler/module/local/analyzer"
+	"WebCrawler/module/local/downloader"
+	"WebCrawler/module/local/pipeline"
 )
 
 func TestArgsRequest(t *testing.T) {

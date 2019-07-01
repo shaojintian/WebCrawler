@@ -1,8 +1,12 @@
 package scheduler
 
-import "testing"
+import (
+	"fmt"
+	"testing"
+)
 
 func TestGetPrimaryDomain(t *testing.T) {
+	fmt.Println("start testing!!!!!!!!!!")
 	host := "127.0.0.1"
 	pd, err := getPrimaryDomain(host)
 	if err != nil {

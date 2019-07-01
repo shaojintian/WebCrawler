@@ -1,91 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6513432-d4b7-479c-a48e-9cbb888294ce" name="Default Changelist" comment="" />
+    <list default="true" id="d6513432-d4b7-479c-a48e-9cbb888294ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finder/finder.go" beforeDir="false" afterPath="$PROJECT_DIR$/finder/finder.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finder/pictures/37220772dae9e9dd3a2bcb076d6f5f90" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finder/pictures/68aa0057402fc2c57af257520ba22d4c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finder/pictures/bfe681b9e8dea82da5f63c979af9e419" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finder/pictures/d5dd269596406e919614fbbbe8e5c34b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finder/pictures/e4ed3ed483173983b7cc84986fb36c9f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finder/pictures/f1a8d0d10e3fd8ca4b90773bb20a192c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finder/pictures/fav.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finder/pictures/fd260f16c7766e4d72386afdaa92789a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finder/pictures/hbl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finder/pictures/logo_140x34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finder/pictures/logo_pad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finder/pictures/mj.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finder/pictures/ren2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finder/pictures/reset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finder/pictures/swm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finder/pictures/zlr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finder/pictures_new/fav.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finder/pictures_new/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/local/analyzer/analyzer_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/module/local/analyzer/analyzer_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/local/pipeline/errors_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/module/local/pipeline/errors_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/local/pipeline/pipeline_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/module/local/pipeline/pipeline_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/stub/stub_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/module/stub/stub_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler/args.go" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler/args.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler/args_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler/args_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler/domain.go" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler/domain.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler/domain_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler/domain_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler/errors_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler/errors_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler/scheduler.go" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler/scheduler.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler/scheduler_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler/scheduler_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler/summary_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler/summary_test.go" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/finder/internal/helper.go">
+        <entry file="file://$PROJECT_DIR$/scheduler/domain_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/finder/internal/module.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/finder/internal/client.go">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scheduler/summary.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/helper/log/logger.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/helper/log/logrus/logrus.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/helper/log/base/base.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/finder/finder.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+            <state relative-caret-position="100">
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
               <folding>
-                <element signature="e#14#195#0" expanded="true" />
+                <element signature="e#19#47#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/finder/out">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scheduler/scheduler_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2820">
-              <caret line="63" column="62" selection-start-line="63" selection-start-column="62" selection-end-line="63" selection-end-column="62" />
+            <state relative-caret-position="40">
+              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scheduler/domain.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="580">
+              <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scheduler/errors.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <element signature="e#19#100#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -93,10 +104,27 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scheduler/scheduler.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+            <state relative-caret-position="49">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="810">
+                <caret line="43" selection-start-line="43" selection-end-line="43" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/toolkit/cookie/cookiejar.go">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -106,9 +134,15 @@
       <find>firstURL</find>
       <find>dir</find>
       <find>dirPath</find>
+      <find>init</find>
+      <find>sched</find>
+      <find>ModuleArgsSummary</find>
     </findStrings>
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.12.5/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -118,7 +152,6 @@
         <option value="$PROJECT_DIR$/module/registrar.go" />
         <option value="$PROJECT_DIR$/toolkit/buffer/buffer.go" />
         <option value="$PROJECT_DIR$/toolkit/buffer/pool.go" />
-        <option value="$PROJECT_DIR$/scheduler/errors.go" />
         <option value="$PROJECT_DIR$/finder/internal/module.go" />
         <option value="$PROJECT_DIR$/module/local/analyzer/analyzer.go" />
         <option value="$PROJECT_DIR$/module/local/analyzer/errors.go" />
@@ -130,14 +163,26 @@
         <option value="$PROJECT_DIR$/module/local/pipeline/pipeline.go" />
         <option value="$PROJECT_DIR$/finder/internal/processor.go" />
         <option value="$PROJECT_DIR$/finder/internal/helper.go" />
-        <option value="$PROJECT_DIR$/scheduler/args.go" />
         <option value="$PROJECT_DIR$/finder/monitor/monitor.go" />
         <option value="$PROJECT_DIR$/scheduler/summary.go" />
-        <option value="$PROJECT_DIR$/scheduler/scheduler.go" />
         <option value="$PROJECT_DIR$/helper/log/logger.go" />
         <option value="$PROJECT_DIR$/helper/log/logrus/logrus.go" />
         <option value="$PROJECT_DIR$/helper/log/base/base.go" />
+        <option value="$PROJECT_DIR$/scheduler/scheduler.go" />
         <option value="$PROJECT_DIR$/finder/finder.go" />
+        <option value="$PROJECT_DIR$/module/local/analyzer/analyzer_test.go" />
+        <option value="$PROJECT_DIR$/module/stub/stub_test.go" />
+        <option value="$PROJECT_DIR$/module/local/pipeline/errors_test.go" />
+        <option value="$PROJECT_DIR$/module/local/pipeline/pipeline_test.go" />
+        <option value="$PROJECT_DIR$/scheduler/errors.go" />
+        <option value="$PROJECT_DIR$/scheduler/args.go" />
+        <option value="$PROJECT_DIR$/scheduler/errors_test.go" />
+        <option value="$PROJECT_DIR$/scheduler/args_test.go" />
+        <option value="$PROJECT_DIR$/scheduler/summary_test.go" />
+        <option value="$PROJECT_DIR$/scheduler/domain_test.go" />
+        <option value="$PROJECT_DIR$/scheduler/scheduler_test.go" />
+        <option value="$PROJECT_DIR$/scheduler/domain.go" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -145,16 +190,28 @@
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WebCrawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebCrawler" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
@@ -191,8 +248,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -205,7 +263,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32959184" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -217,121 +275,11 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/module/base.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/data.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/errors.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/maddr.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/mid.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/mtype.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/registrar.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/score.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/sn.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toolkit/buffer/buffer.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toolkit/buffer/errors.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toolkit/buffer/pool.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toolkit/buffer/pool_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scheduler/errors.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmap/base.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmap/bucket.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmap/cmap.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmap/errors.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmap/pair.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmap/redistributor.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/cmap/segment.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/cmap/utils.go">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/errors/errors.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/local/analyzer/analyzer.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/local/analyzer/errors.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/stub/stub.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/stub/base.go">
       <provider selected="true" editor-type-id="text-editor">
@@ -382,17 +330,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scheduler/args.go">
+    <entry file="file://$PROJECT_DIR$/finder/out">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/finder/monitor/monitor.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        <state relative-caret-position="192">
+          <caret line="63" column="62" selection-start-line="63" selection-start-column="62" selection-end-line="63" selection-end-column="62" />
         </state>
       </provider>
     </entry>
@@ -400,13 +341,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/finder/internal/module.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -441,27 +375,212 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/module/base.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finder/pictures_new/logo.png" />
+    <entry file="file://$PROJECT_DIR$/finder/pictures_new/fav.ico" />
+    <entry file="file://$PROJECT_DIR$/finder/pictures/logo_140x34.png" />
+    <entry file="file://$PROJECT_DIR$/finder/pictures/reset.png" />
+    <entry file="file://$PROJECT_DIR$/finder/pictures/zlr.jpg" />
+    <entry file="file://$PROJECT_DIR$/finder/monitor/monitor.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3684">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="e#17#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finder/internal/module.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/local/analyzer/analyzer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2150">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/local/analyzer/errors.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/local/analyzer/analyzer_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/data_test.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/fake_test.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/maddr_test.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/mid_test.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/mtype_test.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/local/pipeline/errors_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/stub/stub_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <element signature="e#14#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/stub/stub.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="e#14#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/local/pipeline/pipeline_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="31" column="79" selection-start-line="31" selection-start-column="79" selection-end-line="31" selection-end-column="79" />
+          <folding>
+            <element signature="e#18#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/errors/errors.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-500" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scheduler/args.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="129" column="19" selection-start-line="129" selection-start-column="19" selection-end-line="129" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/finder/finder.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+        <state relative-caret-position="1896">
+          <caret line="100" column="62" selection-start-line="100" selection-start-column="57" selection-end-line="100" selection-end-column="62" />
           <folding>
             <element signature="e#14#195#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scheduler/scheduler.go">
+    <entry file="file://$PROJECT_DIR$/scheduler/args_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        <state relative-caret-position="300">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/finder/out">
+    <entry file="file://$PROJECT_DIR$/scheduler/summary_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2820">
-          <caret line="63" column="62" selection-start-line="63" selection-start-column="62" selection-end-line="63" selection-end-column="62" />
+        <state relative-caret-position="100">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scheduler/errors_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.12.5/libexec/src/strings/strings.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="112" column="5" selection-start-line="112" selection-start-column="5" selection-end-line="112" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.12.5/libexec/src/regexp/regexp.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="785" column="52" lean-forward="true" selection-start-line="785" selection-start-column="52" selection-end-line="785" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scheduler/domain_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="e#19#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scheduler/scheduler_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scheduler/domain.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scheduler/errors.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#19#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scheduler/scheduler.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toolkit/cookie/cookiejar.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="810">
+            <caret line="43" selection-start-line="43" selection-end-line="43" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

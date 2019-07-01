@@ -3,7 +3,7 @@ package scheduler
 import (
 	"testing"
 
-	"gopcp.v2/chapter6/webcrawler/module"
+	"WebCrawler/module"
 )
 
 func TestSummaryNew(t *testing.T) {

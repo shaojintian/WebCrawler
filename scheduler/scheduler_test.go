@@ -1,14 +1,15 @@
 package scheduler
 
+/*
 import (
 	"net/http"
 	"runtime"
 	"testing"
 	"time"
 
-	"gopcp.v2/chapter5/cmap"
-	"gopcp.v2/chapter6/webcrawler/module"
-	"gopcp.v2/chapter6/webcrawler/toolkit/buffer"
+	"WebCrawler/cmap"
+	"WebCrawler/module"
+	"WebCrawler/toolkit/buffer"
 )
 
 // snGen 代表序列号生成器。
@@ -420,3 +421,6 @@ func TestSendItem(t *testing.T) {
 		t.Fatalf("It still can send item with closed buffer!")
 	}
 }
+
+
+ */

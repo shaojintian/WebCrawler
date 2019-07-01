@@ -127,7 +127,7 @@ func (args *ModuleArgs) Check() error {
 	}
 	return nil
 }
-
+//返回下载，分析，条目手机管道的大小
 func (args *ModuleArgs) Summary() ModuleArgsSummary {
 	return ModuleArgsSummary{
 		DownloaderListSize: len(args.Downloaders),
