@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6513432-d4b7-479c-a48e-9cbb888294ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/finder/finder.go" beforeDir="false" afterPath="$PROJECT_DIR$/finder/finder.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/finder/pictures/37220772dae9e9dd3a2bcb076d6f5f90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finder/pictures/68aa0057402fc2c57af257520ba22d4c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finder/pictures/bfe681b9e8dea82da5f63c979af9e419" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finder/pictures/d5dd269596406e919614fbbbe8e5c34b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finder/pictures/e4ed3ed483173983b7cc84986fb36c9f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finder/pictures/f1a8d0d10e3fd8ca4b90773bb20a192c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finder/pictures/fav.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finder/pictures/fd260f16c7766e4d72386afdaa92789a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finder/pictures/hbl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finder/pictures/logo_140x34.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finder/pictures/logo_pad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finder/pictures/mj.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finder/pictures/ren2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finder/pictures/reset.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finder/pictures/swm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finder/pictures/zlr.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finder/pictures_new/fav.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finder/pictures_new/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/local/analyzer/analyzer_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/module/local/analyzer/analyzer_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/local/pipeline/errors_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/module/local/pipeline/errors_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/local/pipeline/pipeline_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/module/local/pipeline/pipeline_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/stub/stub_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/module/stub/stub_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scheduler/args.go" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler/args.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scheduler/args_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler/args_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scheduler/domain.go" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler/domain.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scheduler/domain_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler/domain_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scheduler/errors_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler/errors_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scheduler/scheduler.go" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler/scheduler.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scheduler/scheduler_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler/scheduler_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scheduler/summary_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler/summary_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,8 +81,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="810">
-                <caret line="43" selection-start-line="43" selection-end-line="43" />
+              <first_editor relative-caret-position="386">
+                <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
               </first_editor>
               <second_editor />
             </state>
@@ -250,7 +217,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -263,7 +230,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -577,8 +544,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="810">
-            <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <first_editor relative-caret-position="386">
+            <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
           </first_editor>
           <second_editor />
         </state>

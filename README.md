@@ -23,9 +23,9 @@
 
 ##详细设计
 ###数据流图
-![dataFlow](/Users/shaojintian/go/src/WebCrawler/docs/dataFlow.png)<br/>
+![dataFlow](/docs/dataFlow.png)<br/>
 ###模块架构图
-![moduleArchi](/Users/shaojintian/go/src/WebCrawler/docs/moduleArchi.png)
+![moduleArchi](/docs/moduleArchi.png)
 ##工具的实现
 - /errors 错误处理
 - /helper/log   监控日志处理
